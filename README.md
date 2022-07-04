@@ -1,2 +1,2 @@
 # study-example-swift
-Repository with example code for personal study
+Repository with example for personal study
